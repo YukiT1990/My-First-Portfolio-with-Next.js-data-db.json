@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "image": "/projects/chick.jpg",
+      "movie": null,
+      "title": "Sample project",
+      "body": "This is a sample project page for development."
+    },
+    {
+      "id": 2,
+      "image": "/projects/solarSystem.png",
+      "movie": "/projects/solarSystem.mov",
+      "title": "Solar System",
+      "body": "Solar System: using translate(), push(), rotate(), pop() functions in p5.js."
+    },
+    {
+      "id": 3,
+      "image": "/projects/particles.png",
+      "movie": "/projects/particles.mov",
+      "title": "Particles",
+      "body": "Particles that fall when the mouse is dragged and bounce on the ground."
+    },
+    {
+      "id": 4,
+      "image": "/projects/particlesWithCollisionDetection.png",
+      "movie": "/projects/particlesWithCollisionDetection.mov",
+      "title": "Particles with collision detection",
+      "body": "When particles pass through the box they change color and become red."
+    },
+    {
+      "id": 5,
+      "image": "/projects/plinko.png",
+      "movie": "/projects/plinko.mov",
+      "title": "Plinko",
+      "body": "Plinko game: random balls fall from the top when pressing any key on the keyboard."
+    },
+    {
+      "id": 6,
+      "image": "/projects/catapult.png",
+      "movie": "/projects/catapult.mov",
+      "title": "Catapult",
+      "body": "Two blue balls interact with the white bar which likes teeter totter."
+    },
+    {
+      "id": 7,
+      "image": "/projects/dominoes.png",
+      "movie": "/projects/dominoes.mov",
+      "title": "Dominoes",
+      "body": "Dominoes using Matter.js composites."
+    },
+    {
+      "id": 8,
+      "image": "/projects/angryBirdsClone.png",
+      "movie": "/projects/angryBirdsClone.mov",
+      "title": "Angry Birds Clone",
+      "body": "An angry birds clone game: remove all of the green boxes."
+    }
+  ]
+}
