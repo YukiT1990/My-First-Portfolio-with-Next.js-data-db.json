@@ -55,6 +55,13 @@
       "movie": "/projects/angryBirdsClone.mov",
       "title": "Angry Birds Clone",
       "body": "An angry birds clone game: remove all of the green boxes."
+    },
+    {
+      "id": 9,
+      "image": "/projects/randomFont.png",
+      "movie": "/projects/randomFont.mov",
+      "title": "Random Font",
+      "body": "Convert the word \"code\" into the position of points using p5.js textToPoints(), then vary the position of points using random() ."
     }
   ]
 }
