@@ -69,6 +69,13 @@
       "movie": "/projects/noisyFont.mov",
       "title": "Noisy Font",
       "body": "Convert the word \"code\" into the position of points using p5.js textToPoints(), then vary the position of points using noise(), which returns the Perlin noise. The main difference to the random() function is that Perlin noise is defined in an infinite n-dimensional space where each pair of coordinates corresponds to a fixed semi-random value"
+    },
+    {
+      "id": 11,
+      "image": "/projects/TexturedSolarSystem.png",
+      "movie": "/projects/TexturedSolarSystem.mov",
+      "title": "Textured Solar System",
+      "body": "Textured solar system in 3D using WEBGL of p5.js."
     }
   ]
 }
