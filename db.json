@@ -75,7 +75,7 @@
       "image": "/projects/TexturedSolarSystem.png",
       "movie": "/projects/TexturedSolarSystem.mov",
       "title": "Textured Solar System",
-      "body": "Textured solar system in 3D using WEBGL of p5.js."
+      "body": "Textured solar system in 3D: using WEBGL, texture(), sphere(), rotateY(), translate(), camera() of p5.js."
     }
   ]
 }
