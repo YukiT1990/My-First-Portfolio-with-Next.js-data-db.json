@@ -76,6 +76,13 @@
       "movie": "/projects/TexturedSolarSystem.mov",
       "title": "Textured Solar System",
       "body": "Textured solar system in 3D: using WEBGL, texture(), sphere(), rotateY(), translate(), camera() of p5.js."
+    },
+    {
+      "id": 12,
+      "image": "/projects/RGBCube.png",
+      "movie": "/projects/RGBCube.mov",
+      "title": "RGB Cube",
+      "body": "A rotating 3D cube displaying the RGB colour space."
     }
   ]
 }
