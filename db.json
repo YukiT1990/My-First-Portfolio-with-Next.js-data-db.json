@@ -2,87 +2,99 @@
   "projects": [
     {
       "id": 1,
-      "image": "/projects/chick.jpg",
+      "image": "/projects/simple-blog.png",
       "movie": null,
-      "title": "Sample project",
-      "body": "This is a sample project page for development."
+      "title": "Simple blog web app",
+      "body": "This is a Fullstack App with Next.js, Prisma, and PostgreSQL.",
+      "url": "https://yuki-tsukada-blogr-nextjs-prisma.vercel.app/"
     },
     {
       "id": 2,
       "image": "/projects/solarSystem.png",
       "movie": "/projects/solarSystem.mov",
       "title": "Solar System",
-      "body": "Solar System: using translate(), push(), rotate(), pop() functions in p5.js."
+      "body": "Solar System: using translate(), push(), rotate(), pop() functions in p5.js.",
+      "url": ""
     },
     {
       "id": 3,
       "image": "/projects/particles.png",
       "movie": "/projects/particles.mov",
       "title": "Particles",
-      "body": "Particles that fall when the mouse is dragged and bounce on the ground."
+      "body": "Particles that fall when the mouse is dragged and bounce on the ground.",
+      "url": ""
     },
     {
       "id": 4,
       "image": "/projects/particlesWithCollisionDetection.png",
       "movie": "/projects/particlesWithCollisionDetection.mov",
       "title": "Particles with collision detection",
-      "body": "When particles pass through the box they change color and become red."
+      "body": "When particles pass through the box they change color and become red.",
+      "url": ""
     },
     {
       "id": 5,
       "image": "/projects/plinko.png",
       "movie": "/projects/plinko.mov",
       "title": "Plinko",
-      "body": "Plinko game: random balls fall from the top when pressing any key on the keyboard."
+      "body": "Plinko game: random balls fall from the top when pressing any key on the keyboard.",
+      "url": ""
     },
     {
       "id": 6,
       "image": "/projects/catapult.png",
       "movie": "/projects/catapult.mov",
       "title": "Catapult",
-      "body": "Two blue balls interact with the white bar which likes teeter totter."
+      "body": "Two blue balls interact with the white bar which likes teeter totter.",
+      "url": ""
     },
     {
       "id": 7,
       "image": "/projects/dominoes.png",
       "movie": "/projects/dominoes.mov",
       "title": "Dominoes",
-      "body": "Dominoes using Matter.js composites."
+      "body": "Dominoes using Matter.js composites.",
+      "url": ""
     },
     {
       "id": 8,
       "image": "/projects/angryBirdsClone.png",
       "movie": "/projects/angryBirdsClone.mov",
       "title": "Angry Birds Clone",
-      "body": "An angry birds clone game: remove all of the green boxes."
+      "body": "An angry birds clone game: remove all of the green boxes.",
+      "url": ""
     },
     {
       "id": 9,
       "image": "/projects/randomFont.png",
       "movie": "/projects/randomFont.mov",
       "title": "Random Font",
-      "body": "Convert the word \"code\" into the position of points using p5.js textToPoints(), then vary the position of points using random()."
+      "body": "Convert the word \"code\" into the position of points using p5.js textToPoints(), then vary the position of points using random().",
+      "url": ""
     },
     {
       "id": 10,
       "image": "/projects/noisyFont.png",
       "movie": "/projects/noisyFont.mov",
       "title": "Noisy Font",
-      "body": "Convert the word \"code\" into the position of points using p5.js textToPoints(), then vary the position of points using noise(), which returns the Perlin noise. The main difference to the random() function is that Perlin noise is defined in an infinite n-dimensional space where each pair of coordinates corresponds to a fixed semi-random value"
+      "body": "Convert the word \"code\" into the position of points using p5.js textToPoints(), then vary the position of points using noise(), which returns the Perlin noise. The main difference to the random() function is that Perlin noise is defined in an infinite n-dimensional space where each pair of coordinates corresponds to a fixed semi-random value",
+      "url": ""
     },
     {
       "id": 11,
       "image": "/projects/TexturedSolarSystem.png",
       "movie": "/projects/TexturedSolarSystem.mov",
       "title": "Textured Solar System",
-      "body": "Textured solar system in 3D: using WEBGL, texture(), sphere(), rotateY(), translate(), camera() of p5.js."
+      "body": "Textured solar system in 3D: using WEBGL, texture(), sphere(), rotateY(), translate(), camera() of p5.js.",
+      "url": ""
     },
     {
       "id": 12,
       "image": "/projects/RGBCube.png",
       "movie": "/projects/RGBCube.mov",
       "title": "RGB Cube",
-      "body": "A rotating 3D cube displaying the RGB colour space."
+      "body": "A rotating 3D cube displaying the RGB colour space.",
+      "url": ""
     }
   ]
 }
